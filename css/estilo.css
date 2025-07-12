@@ -1,0 +1,9 @@
+header {
+    background-color:darkred;
+    color:ghostwhite;
+    text-align:center;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding:10px;
+    border-bottom: 3px solid goldenrod;
+}
